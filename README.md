@@ -9,8 +9,8 @@
       I developed a K-means clustering algorithm to group retail store customers based on their purchase history 🛍. I learned how to apply clustering techniques for customer segmentation, data preprocessing, and model evaluation 🤔. I demonstrated skills in data analysis, feature engineering, and unsupervised learning 📊. Plus, I got to work with popular libraries like scikit-learn, NumPy, Pandas🐼, and Matplotlib 🤖, and datasets imported from Kaggle 📊! By clustering customers, I discovered meaningful patterns in their purchase behavior, enabling data-driven insights for the retail store 📈.
 
 3) Machine Learning Assignment - Task 03🤖:
-4) 
-      In this task, I implemented a Support Vector Machine (SVM) to classify images of cats 🐈 and dogs 🐕 from the Kaggle dataset. I learned how to apply SVM algorithms for image classification, feature engineering, and model evaluation 🤔. I demonstrated skills in data preprocessing, model training, and hyperparameter tuning 📊. Plus, I got to work with popular libraries like scikit-learn, NumPy, Pandas, and Matplotlib 🤖, and datasets imported from Kaggle 📊! This project showcases my abilities in machine learning and computer vision 📸.
+
+       In this task, I implemented a Support Vector Machine (SVM) to classify images of cats 🐈 and dogs 🐕 from the Kaggle dataset. I learned how to apply SVM algorithms for image classification, feature engineering, and model evaluation 🤔. I demonstrated skills in data preprocessing, model training, and hyperparameter tuning 📊. Plus, I got to work with popular libraries like scikit-learn, NumPy, Pandas, and Matplotlib 🤖, and datasets imported from Kaggle 📊! This project showcases my abilities in machine learning and computer vision 📸.
 
 4)Machine Learning Assignment - Task 4🤖:
 
@@ -18,5 +18,4 @@
 
 5)Machine Learning Assignment - Task 05🤖 : 
 
-      I developed a model that can accurately recognize food items🍴 from images📸 and estimate their calorie content, enabling users to track their dietary intake and make informed food choices 🤖! I learned how to apply computer vision techniques, deep learning models, and data analysis tools to recognize food items and predict their calorie content 🤔. I worked with popular libraries like NumPy, OpenCV, scikit-learn, Matplotlib, Keras, OS, collections, and shutil, and datasets imported from Kaggle 📊. Through this project, I gained hands-on experience in image processing, object detection, and regression tasks, and developed a model that can accurately recognize food items and estimate their calorie content 📈.
-*************************************************************************************************************************
+      I developed a model that can accurately recognize food items🍴 from images📸 and estimate their calorie content, enabling users to track their dietary intake and make informed food choices 🤖! I learned how to apply computer vision techniques, deep learning models, and data analysis tools to recognize food items and predict their calorie content 🤔. I worked with popular libraries like NumPy, OpenCV, scikit-learn, Matplotlib, Keras, OS, collections, and shutil, and datasets imported from Kaggle 📊. Through this project, I gained hands-on experience in image processing, object detection, and regression tasks, and developed a model that can accurately recognize food items and estimate their calorie.
